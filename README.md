@@ -1,3 +1,6 @@
+This is a fork from randomusbs11's AutoVM, from replit.
+In this fork I'll try to build Tengoku- over it and implement the graphics engine runtime to run on (async) parallel.
+
 # How to use?
 
 Simply click on the Run Button and press Enter key.
@@ -25,3 +28,4 @@ You can leave the default variables and only change the `ISO_URL = ` variable if
 # Future plans
 - Allow for unzipping zipped ISOs
 - Stop working if ISO is not detected.
+- Integration with Tengoku- project
