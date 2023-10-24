@@ -1,9 +1,6 @@
 This is a fork from randomusbs11's AutoVM, from replit.
 In this fork I'll try to build Tengoku- over it and implement the graphics engine runtime to run on (async) parallel.
 
-# How to use?
-
-Simply click on the Run Button and press Enter key.
 ---
 
 # Variables
